@@ -193,6 +193,16 @@ margin: 5px auto;
    opacity: 100;
 }
 
+.butFrame .butText:hover .sink {
+-webkit-transform: translateY(10px);
+transform: translateY(10px);
+}
+
+.butFrame .butText:hover .floatup {
+-webkit-transform: translateY(-10px);
+transform: translateY(-10px);
+}
+
 @media screen and (max-width: 990px){
     .serviceBox{
         margin-bottom: 25px;
