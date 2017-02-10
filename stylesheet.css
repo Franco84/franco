@@ -136,6 +136,7 @@ margin: 5px auto;
   cursor: pointer;
   overflow: hidden;
   position: relative;
+  border-radius: 10px;
 }
 
 .butFrame img {
